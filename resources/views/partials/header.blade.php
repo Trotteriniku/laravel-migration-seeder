@@ -1,1 +1,3 @@
-<div>Header <i class="fa-solid fa-home"></i></div>
+<header>
+    <h1 class=" display-1 fw-semibold text-center text-danger ">Trains</h1>
+</header>
