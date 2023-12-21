@@ -88,6 +88,7 @@ php artisan migrate:rollback
 
 #per popolare un db
 php artisan make:seeder UsersTableSeeder
+php artisan db:seed --class=UsersTableSeeder
 
 
 # preparo le rotte file web.php es.
